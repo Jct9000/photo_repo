@@ -1,2 +1,3 @@
 # photo_repo
-Hello world!
+Goodbye world!
+Git will save us all!
